@@ -27,6 +27,7 @@ Read the [docs](https://docs.termix.site/plugins/user-manager) to set it up and 
 - Create groups and change who is in them
 - See who is logged in and recent logins
 - A Users card in Host Metrics
+- Lock, unlock and delete users through Termix actions, with empty passwords as a status tile
 
 <br />
 
